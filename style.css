@@ -100,3 +100,21 @@ h6 {
   background-color: #FF7400;
   color: #fff;
 }
+.div-inside-block-1 {
+  padding: 50px;
+  font-size: 20px;
+  background-color: #fff;
+  width: calc(33.3% - 20px);
+  min-width: 300px;
+  box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: 700ms;
+  margin-bottom: 30px;
+}
+.block-1-in{
+  display: flex;
+  margin-top: -92px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
