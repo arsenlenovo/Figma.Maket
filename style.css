@@ -140,5 +140,7 @@ h6 {
   max-width: 34%;
 }
 @media (max-width: 600px) {
-  
+  .left-text {
+    
+  }
 }
