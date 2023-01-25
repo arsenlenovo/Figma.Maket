@@ -181,3 +181,11 @@ h6 {
   }
 
 }
+.left-title,.left-text-2 {
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 60px;
+  color: #D67E34;
+}
