@@ -169,3 +169,7 @@ h6 {
   padding: 58px 150px;
   margin-top: 90px;
 }
+.block-holder {
+  display: flex;
+  justify-content: space-between;
+}
