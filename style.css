@@ -175,5 +175,9 @@ h6 {
   align-items: center;
 }
 @media (max-width: 1000px) {
-  
+  .block-3 {
+    text-align: center;
+    padding: 0;
+  }
+
 }
