@@ -163,3 +163,9 @@ h6 {
   color: #bc9060;
   font-weight: 400;
 }
+
+.block-3 {
+  background-image: url(/assets/bg.png);
+  padding: 58px 150px;
+  margin-top: 90px;
+}
