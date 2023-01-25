@@ -189,3 +189,11 @@ h6 {
   line-height: 60px;
   color: #D67E34;
 }
+.left-text-2 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #FFFFFF;
+}
