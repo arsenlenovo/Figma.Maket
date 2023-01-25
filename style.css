@@ -197,3 +197,12 @@ h6 {
   line-height: 33px;
   color: #FFFFFF;
 }
+.second-button {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  background: #FF7400;
+  color: #fff;
+  height: 5vh;
+}
