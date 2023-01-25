@@ -182,7 +182,9 @@ h6 {
   .block-holder {
     flex-wrap: wrap;
   }
-
+  .right-button {
+    max-width: 100%;
+  }
 }
 .left-title,.left-text-2 {
   font-family: 'Tinos';
