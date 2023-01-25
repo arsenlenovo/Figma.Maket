@@ -179,6 +179,9 @@ h6 {
     text-align: center;
     padding: 0;
   }
+  .block-holder {
+    flex-wrap: wrap;
+  }
 
 }
 .left-title,.left-text-2 {
