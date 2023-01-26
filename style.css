@@ -247,4 +247,8 @@ h6 {
   .dash {
     display: none;
   }
+  .dishes-title {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
 }
