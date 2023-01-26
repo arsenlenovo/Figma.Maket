@@ -230,6 +230,7 @@ h6 {
 .burger-item {
   display: flex;
   align-items: center;
+  margin-bottom: 29px;
 }
 .burger-text {
   font-family: Times, serif;
