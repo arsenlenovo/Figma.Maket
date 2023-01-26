@@ -225,8 +225,7 @@ h6 {
   justify-content: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  
-
+  max-width: 100%;
 }
 .burger-item {
   display: flex;
