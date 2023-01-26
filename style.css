@@ -232,3 +232,10 @@ h6 {
   display: flex;
   align-items: center;
 }
+.burger-text {
+  font-family: Times, serif;
+  font-size: 26px;
+  margin-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
