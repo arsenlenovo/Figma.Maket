@@ -293,6 +293,11 @@ h6 {
   text-align: center;
   margin-left: 30px;
 }
+@media (max-width: 850px) {
+  .card-separate {
+    display: none;
+  }
+}
 .Our-menu {
   color: #fff;
   font-family: Times, serif;
@@ -306,5 +311,6 @@ h6 {
   color: #fff;
   padding: 5px 30px;
 }
+
 
 
