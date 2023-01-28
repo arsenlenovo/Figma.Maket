@@ -273,5 +273,12 @@ h6 {
   margin-left: 40px;
   max-width: 100%;
 }
+.card {
+  background-color: #fff;
+  padding: 60px;
+  width: 100%;
+  height: fit-content;
+  text-align: center;
+}
 
 
