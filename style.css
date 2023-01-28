@@ -265,6 +265,7 @@ h6 {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
+  height: 140vh;
 }
 .inside-socond-main {
   display: flex;
