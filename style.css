@@ -13,14 +13,8 @@ body,html {
   background-repeat: no-repeat;
   background-size: cover;
 }
-button:hover {
-  cursor: pointer;
-  background-color: red;
-}
-button {
-  border: none;
-  margin: 3px;
-}
+
+
 .navbar {
   display: flex;
   align-items: center;
@@ -271,6 +265,13 @@ h6 {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
+}
+.inside-socond-main {
+  display: flex;
+  justify-content: center;
+  padding-top: 120px;
+  margin-left: 40px;
+  max-width: 100%;
 }
 
 
