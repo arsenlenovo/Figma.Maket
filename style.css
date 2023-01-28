@@ -13,6 +13,14 @@ body,html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+button:hover {
+  cursor: pointer;
+  background-color: red;
+}
+button {
+  border: none;
+  margin: 3px;
+}
 .navbar {
   display: flex;
   align-items: center;
@@ -47,6 +55,9 @@ nav ul li {
 }
 nav ul {
   text-align: center;
+}
+.nav a:hover{
+  color: red;
 }
 @media (max-width: 850px) {
   .container {
@@ -211,6 +222,7 @@ h6 {
   background: #FF7400;
   color: #fff;
   height: 5vh;
+  margin: 3px;
 }
 
 .dishes-title {
@@ -252,3 +264,13 @@ h6 {
     margin-bottom: 30px;
   }
 }
+
+
+.main {
+  background-image: url(/assets/bar.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+
