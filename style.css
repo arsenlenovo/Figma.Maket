@@ -341,12 +341,14 @@ h6 {
 .shared-div-gallery {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   padding-right: 20px;
 }
 .galery-down,
 .galery-up {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   margin-bottom: 20px;
   margin-left: 20px;
 }
