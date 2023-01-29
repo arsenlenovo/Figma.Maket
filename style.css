@@ -353,7 +353,14 @@ h6 {
   margin-left: 20px;
 }
 @media (max-width: 700px) {
-  
+  .img-gal {
+    max-width: 100%;
+    width: 100%;
+    padding-top: 24px;
+  }
+  .shared-div-gallery {
+    flex-wrap: nowrap;
+  }
 }
 
 
