@@ -13,7 +13,10 @@ body,html {
   background-repeat: no-repeat;
   background-size: cover;
 }
-
+button {
+  border: none;
+  margin: 3px;
+}
 
 .navbar {
   display: flex;
