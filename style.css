@@ -17,7 +17,10 @@ button {
   border: none;
   margin: 3px;
 }
-
+button:hover {
+  cursor: pointer;
+  background-color: red;
+}
 .navbar {
   display: flex;
   align-items: center;
