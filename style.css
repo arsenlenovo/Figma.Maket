@@ -112,6 +112,15 @@ header {
 .bottom-words {
   font-size: 70px;
 }
+@media (max-width: 600px) {
+  .bottom-words {
+    font-size: 60px;
+  }
+  .welcom {
+    text-indent: 0;
+  }
+}
+
 h6 {
   color: #fff;
   padding-left: 120px;
@@ -306,6 +315,10 @@ h6 {
   width: 100%;
   height: fit-content;
   text-align: center;
+}
+.ms {
+  width: 100;
+  background-color: #000;
 }
 .card-separate {
   background-color: #fff;
