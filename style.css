@@ -75,6 +75,37 @@ nav ul {
     text-align: center;
   }
 }
+
+#burger, [for=burger] {
+  display: none;
+}
+@media screen and (max-width: 855px) {
+  [for=burger]:hover {
+    background-color: red;
+  }
+  [for=burger] {
+    display: block;
+    position: fixed;
+    width: 30px;
+    text-align: center;
+    right: 60px;
+    top: 10px;
+    background-color: burlywood;
+  }
+  [for=burger]::before {
+    content: '☰';
+  }
+  .nav {
+    display: none;
+    position: fixed;
+    top: 0px;
+    margin-top: 30px;
+  }
+  #burger:checked + label + .nav {
+    display: block;
+  }
+}
+
 header {
   background-image: url(/assets/hero.png);
   max-width: 100%;
@@ -114,7 +145,7 @@ header {
 }
 @media (max-width: 600px) {
   .bottom-words {
-    font-size: 60px;
+    font-size: 65px;
   }
   .welcom {
     text-indent: 0;
