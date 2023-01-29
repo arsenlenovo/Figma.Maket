@@ -375,5 +375,8 @@ h6 {
   flex-wrap: wrap;
   padding: 0;
 }
+@media (max-width: 600px) {
+  
+}
 
 
