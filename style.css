@@ -92,7 +92,7 @@ header {
   .row {
     margin-left: 0;
     padding-left: 20px;
-    padding-right: 20px;
+    padding-right: 25px;
     max-width: 100%;
     text-align: center;
   }
@@ -100,8 +100,6 @@ header {
     margin-left: -130px;
   }
 }
-
-
 .welcom {
   color: #D67E35;
   padding-top: 80px;
@@ -132,6 +130,7 @@ h6 {
   background-color: #fff;
   width: calc(33.3% - 20px);
   min-width: 300px;
+  max-width: 100%;
   box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
   text-align: center;
   transition: 700ms;
