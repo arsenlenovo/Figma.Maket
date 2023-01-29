@@ -343,6 +343,13 @@ h6 {
   justify-content: center;
   padding-right: 20px;
 }
+.galery-down,
+.galery-up {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
 
 
 
