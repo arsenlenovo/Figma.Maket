@@ -381,5 +381,12 @@ h6 {
     max-width: 100%;
   }
 }
+.footer-img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  padding-top: 57px;
+  
+}
 
 
