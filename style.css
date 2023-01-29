@@ -329,5 +329,15 @@ h6 {
   font-weight: 600;
 }
 
+.galery-left {
+  max-width: 100%;
+}
+.h1-galery {
+  text-align: center;
+  padding-top: 70px;
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+
 
 
