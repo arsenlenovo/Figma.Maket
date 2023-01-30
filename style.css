@@ -369,6 +369,9 @@ h6 {
   .card-separate {
     display: none;
   }
+  .card {
+    padding: 50px;
+  }
 }
 .Our-menu {
   color: #fff;
