@@ -103,6 +103,7 @@ nav ul {
     background-color: aqua;
     padding: 10px 25px;
     margin-left: 72px;
+    border-radius: 30px;
   }
   #burger:checked + label + .nav {
     display: block;
