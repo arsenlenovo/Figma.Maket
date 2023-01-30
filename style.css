@@ -12,6 +12,7 @@ body,html {
   margin: 0 auto;
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 20px;
 }
 button {
   border: none;
@@ -26,7 +27,7 @@ button:hover {
   align-items: center;
 }
 .nav {
-  padding-left: 250px;
+  padding-left: 230px;
 }
 .half-nav {
   padding-top: 30px;
