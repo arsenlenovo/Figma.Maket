@@ -342,11 +342,14 @@ h6 {
 @media (max-width: 700px) {
   .inside-socond-main {
     max-width: 100%;
-    margin-left: 15px;
+    margin-left: 0;
+  }
+  .inside-the-main {
+    margin: 0 auto;
   }
 }
 .card {
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   padding: 60px;
   width: 100%;
   height: fit-content;
@@ -374,6 +377,7 @@ h6 {
   font-weight: 400;
   text-align: center;
   padding-top: 100px;
+  margin: 0 auto;
 }
 .three-button {
   background-color: #D67E34;
