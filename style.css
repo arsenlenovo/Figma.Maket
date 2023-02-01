@@ -381,6 +381,8 @@ h6 {
   text-align: center;
   padding-top: 100px;
   margin: 0 auto;
+  text-shadow: 5px 5px 4px #00000040;
+ 
 }
 .three-button {
   background-color: #D67E34;
@@ -428,7 +430,7 @@ h6 {
   margin-bottom: 20px;
   margin-left: 20px;
 }
-@media (max-width: 700px) {
+@media (max-width: 950px) {
   .img-gal {
     max-width: 100%;
     width: 100%;
